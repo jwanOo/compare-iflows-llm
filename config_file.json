@@ -1,0 +1,16 @@
+{
+  "api1": {
+    "name": "iflow_nanme",
+    "host_url": "host_url",
+    "oauth_token_url": "oauth_token_url",
+    "client_id": "client_id",
+    "client_secret": "client_secret"
+  },
+  "api2": {
+    "name": "iflow_nanme",
+    "host_url": "host_url",
+    "oauth_token_url": "oauth_token_url",
+    "client_id": "client_id",
+    "client_secret": "client_secret"
+  }
+}
